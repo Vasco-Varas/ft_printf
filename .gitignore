@@ -1,0 +1,6 @@
+*.o
+printf_test.c
+/cmake-build-debug/
+CMakeLists.txt
+/.idea/
+libftprintf.a
